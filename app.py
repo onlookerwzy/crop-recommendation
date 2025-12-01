@@ -80,4 +80,5 @@ with col2:
         st.info("Please fill in the data on the left and click the button to get your recommendation.")
 
 st.markdown("---")
-st.write("Project by: [Your Name/Team Name] | Powered by Streamlit and PyTorch (KAN)")
+
+st.write("Project by: [YANG,JIANG WEI] | Powered by Streamlit and PyTorch (KAN)")
