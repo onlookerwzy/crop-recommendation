@@ -81,4 +81,5 @@ with col2:
 
 st.markdown("---")
 
-st.write("Project by: [YANG,JIANG WEI] | Powered by Streamlit and PyTorch (KAN)")
+st.write("Project by: [YANG,JIANG,WEI] | Powered by Streamlit and PyTorch (KAN)")
+
